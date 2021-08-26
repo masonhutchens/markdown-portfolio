@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have a doctorate in *physical therapy* and have been working as a **physical therapist** for 2 years. I'm making the transition into **coding.** I have some experience with **HTML, CSS, and Javascript,** but I'm hoping to *expand my knowledge* and learn **more programming languages.**
