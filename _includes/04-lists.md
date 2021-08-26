@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+#### Hello 🌎! My name is Mason Hutchens. 
+##### List of my favorite foods 😃
+- Sushi 🍣
+- Pizza 🍕
+- Pasta 🍝
+- Cheeseburgers 🍔
